@@ -8,7 +8,7 @@ Feel free to ask any questions:)
 
 2.Unzip it
 
-3.Move out all the file from the folders
+3.Move out all the files from the folders
 
 4.Run and enjoy 
 
