@@ -3,6 +3,15 @@ It is the analog of the famous Snake game, created with QT.
 
 Feel free to ask any questions:)
 
+# How To Build
+1.Download the zip
+
+2.Unzip it
+
+3.Move out all the file from the folders
+
+4.Run and enjoy 
+
 
 ![home](https://user-images.githubusercontent.com/74950052/151534507-bad9752b-416a-40df-9fea-8816fc5fd3ed.png)
 
