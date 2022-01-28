@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/imj">
+        <file>Picture/apple.jpg</file>
+        <file>Picture/body_left_right.jpg</file>
+        <file>Picture/body_up_down.jpg</file>
+        <file>Picture/happy_snake.jpg</file>
+        <file>Picture/head_to_up.jpg</file>
+        <file>Picture/head_to_down.jpg</file>
+        <file>Picture/head_to_left.jpg</file>
+        <file>Picture/head_to_right.jpg</file>
+        <file>Picture/snake_end_to_up.jpg</file>
+        <file>Picture/snake_end_to_down.jpg</file>
+        <file>Picture/snake_end_to_right.jpg</file>
+        <file>Picture/snake_left.jpg</file>
+        <file>Picture/snake_right.jpg</file>
+        <file>Picture/snake_up_to_left.jpg</file>
+        <file>Picture/snake_with_three_and_apple.jpg</file>
+        <file>Picture/down_to_left.jpg</file>
+        <file>Picture/down_to_right.jpg</file>
+        <file>Picture/snake_with_apple.jpg</file>
+        <file>Picture/up_to_left.jpg</file>
+        <file>Picture/up_to_right.jpg</file>
+        <file>Picture/snake_end_to_left.png</file>
+    </qresource>
+</RCC>
